@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calender.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\drawable\\ic_calender.xml"
+    },
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_ticket.xml.flat",
+        "source": "C:\\Users\\George's Laptop\\AndroidStudioProjects\\DemoApp\\KMM_APP\\androidApp\\src\\main\\res\\layout\\item_ticket.xml"
+    }
+]
